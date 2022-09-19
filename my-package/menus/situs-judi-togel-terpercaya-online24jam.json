@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle situs-judi-togel-terpercaya-online24jam",
+        "command": "situs-judi-togel-terpercaya-online24jam:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "situs-judi-togel-terpercaya-online24jam",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "situs-judi-togel-terpercaya-online24jam:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
