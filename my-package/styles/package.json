@@ -1,0 +1,26 @@
+{
+  "name": "situs-judi-togel-terpercaya-online24jam",
+  "main": "./lib/situs-judi-togel-terpercaya-online24jam",
+  "version": "0.2.0",
+  "description": "Situs Judi Togel Terpercaya Online24jam Merupakan Situs Bandar Togel Terpercaya Online 24jam Resmi Dan Terbesar Di Dunia 2022, Serta termasuk dalam bandar togel terpercaya di kenal dengan nama Situs toto togel terpercaya For4D memberikan para bettornya togel hadiah 4d 10 juta. Karena Dengan bayaran terbesar di Dunia pasaran toto terlengkap dan terbaik Dengan Minimal Bet 100 Perak Termurah.",
+  "keywords": [
+    "situs judi togel terpercaya online24jam",
+    "situs judi online terpercaya",
+    "situs togel online resmi dan terbaik",
+    "situs judi online bet 100 perak",
+    "situs terpercaya",
+    "situs togel terpercaya",
+    "togel hadiah terbesar",
+    "situs togel hadiah terbesar",
+    "judi online terpercaya"
+  ],
+  "activationCommands": {
+    "atom-workspace": "situs-judi-togel-terpercaya-online24jam:toggle"
+  },
+  "repository": "https://github.com/owla089/hantudong",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
